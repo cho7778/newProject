@@ -1,0 +1,19 @@
+body {
+  background: radial-gradient(
+    96.74% 276.79% at 3.59% 5.28%,
+    #f0f4ff 0%,
+    #a5b6ee 100%
+  );
+}
+
+.header {
+  position: relative;
+}
+
+.header .logo {
+  position: absolute;
+  width: 244px;
+  height: 48px;
+  left: 518px;
+  top: 72px;
+}
